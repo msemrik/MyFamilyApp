@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Moni",
+    "photo": "moni",
+    "location": {
+      "city": "Miami",
+      "province": "FL",
+      "country": "US",
+      "lat": "25.961373",
+      "lng": "-80.133612"
+    }
+  },
+  {
+    "name": "Osva",
+    "photo": "osva",
+    "location": {
+      "city": "Cordoba",
+      "province": "Cordoba",
+      "country": "AR",
+      "lat": "-31.420076",
+      "lng": "-64.189555"
+    }
+  },
+  {
+    "name": "Agu",
+    "photo": "agu",
+    "location": {
+      "city": "Boston",
+      "province": "Massachusetts",
+      "country": "US",
+      "lat": "42.362078",
+      "lng": "-71.061622"
+    }
+  },
+  {
+    "name": "Mati",
+    "photo": "mati",
+    "location": {
+      "city": "Cordoba",
+      "province": "Cordoba",
+      "country": "AR",
+      "lat": "-31.420076",
+      "lng": "-64.189555"
+    }
+  },
+  {
+    "name": "Martin",
+    "photo": "martin",
+    "location": {
+      "city": "Charlotte",
+      "province": "North Carolina",
+      "country": "US",
+      "lat": "35.223269",
+      "lng": "-80.834727"
+    }
+  },
+  {
+    "name": "Vale",
+    "photo": "vale",
+    "location": {
+      "city": "Gainesville",
+      "province": "Florida",
+      "country": "US",
+      "lat": "29.655988",
+      "lng": "-82.319619"
+    }
+  },
+  {
+    "name": "Alan",
+    "photo": "alan",
+    "location": {
+      "city": "Mishmar Aemek",
+      "province": "Israel",
+      "country": "Israel",
+      "lat": "32.611977",
+      "lng": "35.144511"
+    }
+  },
+  {
+    "name": "Ivan",
+    "photo": "ivan",
+    "location": {
+      "city": "Cordoba",
+      "province": "Cordoba",
+      "country": "AR",
+      "lat": "-31.420076",
+      "lng": "-64.189555"
+    }
+  }
+]
